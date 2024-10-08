@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<manifest>
+  <include name="../platform/lanai.xml" />
+
+  <project path="device/oneplus/oneplus12" name="android_device_oneplus_oneplus12" remote="blobs" revision="void" />
+  <project path="device/oneplus/oneplus12-kernel" name="android_device_oneplus_oneplus12-kernel" remote="blobs" revision="void" />
+</manifest>
